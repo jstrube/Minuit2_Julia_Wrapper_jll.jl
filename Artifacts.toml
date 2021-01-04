@@ -1,0 +1,19 @@
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aecaa5272c86ccf07380d3a6e2613de852087099"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "522a11c613df51c65d381caff99bd4427841c8c90a0713da35abe36a65e06b12"
+    url = "https://github.com/jstrube/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.1.1+0/Minuit2_Julia_Wrapper.v0.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f591d51aded621d40487311d80a93e9124e00fa3"
+os = "windows"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "0907dfba707f752c8b042f9bd10d433b0633b24395940c032d2380bc6b77beb7"
+    url = "https://github.com/jstrube/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.1.1+0/Minuit2_Julia_Wrapper.v0.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
